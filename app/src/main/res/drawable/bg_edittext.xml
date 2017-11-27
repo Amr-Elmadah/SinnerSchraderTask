@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorBgEditText" />
+    <stroke
+        android:width="@dimen/d1"
+        android:color="@color/colorBorderEditText" />
+    <padding
+        android:bottom="@dimen/d6"
+        android:left="@dimen/d6"
+        android:right="@dimen/d6"
+        android:top="@dimen/d6" />
+    <corners android:radius="@dimen/d30" />
+</shape>

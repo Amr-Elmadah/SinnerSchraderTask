@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app" translatable="false">CommonLibrary</string>
+    <string name="place" translatable="false">values-large</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SinnerSchraderParsingTask</string>
+    <string name="hint_input">Enter your input here</string>
+    <string name="hint_output">Output...</string>
+    <string name="parse">Parse</string>
+    <string name="must_input">You must set your input first</string>
+</resources>
